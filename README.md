@@ -1,8 +1,8 @@
- Heading level 1
- ===============
-README 
+ README
+ ====== 
 This is my first GitHub repository and I'm training the use of **Git** and *GitHub*.
+ 
  I'm also learning:
- HTML
- CSS
- JavaScript
+ - HTML
+ - CSS
+ - JavaScript
